@@ -6,7 +6,7 @@ function palindrome(str) {
     }
     return ganti;
 }
-console.log(palindrome('kuda'))
+console.log(palindrome('saya insyaAllah bisa'))
     // you can only write your code here!
   
   
